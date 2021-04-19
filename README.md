@@ -1,3 +1,4 @@
+Below description is to run sample election application, use the same to run Microfinance. (bootstrap required for webUI)
 
 # Election - DAPP Tutorial
 Build your first decentralized application, or Dapp, on the Ethereum Network with this tutorial!
